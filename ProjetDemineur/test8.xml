@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_31" class="java.beans.XMLDecoder">
+ <object class="sn.esp.dic2.projets.game.demineur.model.DemineurModel" id="DemineurModel0">
+  <void property="listCases">
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listeCaseNumerotees">
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+     <void property="j">
+      <int>6</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+     <void property="j">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listeCaseVide">
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point"/>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>1</int>
+     </void>
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>2</int>
+     </void>
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>3</int>
+     </void>
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>4</int>
+     </void>
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>5</int>
+     </void>
+     <void property="j">
+      <int>5</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>6</int>
+     </void>
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>7</int>
+     </void>
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+     <void property="j">
+      <int>1</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+     <void property="j">
+      <int>2</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+     <void property="j">
+      <int>3</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+     <void property="j">
+      <int>4</int>
+     </void>
+    </object>
+   </void>
+   <void method="add">
+    <object class="sn.esp.dic2.projets.game.demineur.model.Point">
+     <void property="i">
+      <int>8</int>
+     </void>
+     <void property="j">
+      <int>8</int>
+     </void>
+    </object>
+   </void>
+  </void>
+  <void property="listeners">
+   <null/>
+  </void>
+  <void property="nbCaseMinee">
+   <int>10</int>
+  </void>
+  <void property="next">
+   <null/>
+  </void>
+  <void property="nextModel">
+   <null/>
+  </void>
+  <void property="previous">
+   <null/>
+  </void>
+  <void property="previousModel">
+   <null/>
+  </void>
+ </object>
+</java>
